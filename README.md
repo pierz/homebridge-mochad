@@ -4,7 +4,7 @@ Provides support for mochad based X10 devices.
 
 Based heavily on homebridge-heyu.
 
-# Original homebridge-heyu readme
+## Original homebridge-heyu readme
 
 Supports X10 devices via heyu on the HomeBridge Platform. Tested with a CM11A
 Module connected via a USB Serial adapter. For device configuration, it parses
