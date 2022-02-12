@@ -1,6 +1,8 @@
 # homebridge-mochad
 
-Provides support for mochad based X10 devices.
+Comming soon....
+
+Provides support for X10 devices connected via the [mochad](https://github.com/bjonica/mochad) deamon - which supports CM15A, CM15Pro and CM19A controllers.
 
 Based heavily on homebridge-heyu.
 
